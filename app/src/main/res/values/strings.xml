@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Not A Game</string>
+    <string name="TextC">Система: Привет!</string>
+    <string name="No">Пока</string>
+    <string name="Yes">Привет</string>
+    <string name="Fin1">Ты показал свою настойцивость! Ты крутой! (1-ый финал)</string>
+    <string name="Fin2">Злой человек! (2-ой финал)</string>
+    <string name="secret">SECRET</string>
+    <string name="FinSecret">Ты нашёл секрет! Выход из Матрицы! (Секретный финал)</string>
+    <string name="helper">yERrqCoZbQiW86QMjs5hdWyXQDSCZpgEnGSEQBk3lDUikFxZHkes4qsIW386PYsTyXv6yW1CtWAfPKE15Q7Dt1gstijMcHSKNlLW3nEndfQXeiKeQ2w7jXpKlo7CF8kPW7Xy1TliY2CkmHn6ILjh2rDByH2bgoblc/t5NHReAW0=</string>
+</resources>
